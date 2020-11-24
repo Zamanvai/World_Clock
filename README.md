@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+A new Flutter application. This application will show time all over the world
 
 ## Getting Started
 
